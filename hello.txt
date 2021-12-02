@@ -1,1 +1,4 @@
 welcome to git bash
+git resource to access codes
+git hub is a collection of different softwares.
+
